@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="POS_TPM__store.AddNewCategory" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAUAAACAAAACAAAAgAAAAAAAAEAAAAA=</HashCode>
+      <FileName>AddNewCategory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.AddNewSupplier" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAEAEACAAAACAAAAgAAACAAAAAAAEAA=</HashCode>
+      <FileName>AddNewSupplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Cashier" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAMAQAAQAAAAAAAAAAAYAABAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cashier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Connection" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Customer" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAACAAAAAAAAAAAgAAAAAEAAEAAAAAEAQAgAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Employee" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAIAAAQAAAAAgAQIAAAMAAAQAAAQCEAAAAAAIJAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormAddItem" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgACQAAAACAAgBiSAACAIgEOAQQARBACAKIUAACAGAA=</HashCode>
+      <FileName>FormAddItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormCustomerCheckin" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACAAACQAABEAAACAAEACgAUAAAECAAQAAAAAEAA=</HashCode>
+      <FileName>FormCustomerCheckin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormEditCustomer" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAAAAJEhDELIBIQAgCAAAAKDgUgTJFwRKAAggICoQQ=</HashCode>
+      <FileName>FormEditCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormEditItem" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cgACCAAABKKAoBAbAACAAgICAU0ARJCAABKMgAKCEQQ=</HashCode>
+      <FileName>FormEditItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormEditQty" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAABEAIACAAAQCAIAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>FormEditQty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormGSTReport" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACgEAAIABACAAAACAAAAAAAAAAIAAAAAAgE=</HashCode>
+      <FileName>FormGSTReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormMain" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/7aVAYQAACAloB6TSKLJcMbCJQRn8aktATIEyYAHwQ4=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormNewAccount" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8wggAEBQACADABaQAAGAQCACBgAEzIAgAbAIAEAAAAQ=</HashCode>
+      <FileName>FormNewAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormNewCustomer" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAkBAACADABIQAIGAAAECBgAATIEggKAAAAAAAAQ=</HashCode>
+      <FileName>FormNewCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormReceipt" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQACAACAEAAAARCiAAAADAAEAAABAECAAAQAAAAA=</HashCode>
+      <FileName>FormReceipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormRegisteredCustomerDetail" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormRegisteredCustomerDetail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormSingleLogin" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAAAAECAAABAAAACAAAACACUAAAAAABAAAAAAEAA=</HashCode>
+      <FileName>FormSingleLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.FormUpdateStock" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>XhAACAAAADBAABCWAoCVAAIjQAVAQACAAKIEgQgAAAA=</HashCode>
+      <FileName>FormUpdateStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Person" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAADAACAAAMCIAAAAAAQQAQABAABCAAAApAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Product" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAQIkAIAQBAAAAAAAgAAAABUwAhAAQQAACAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Program" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Receipt" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQABAAAgAAAAAAAAAAAAAAAAIAAgAAAQAAAAEA=</HashCode>
+      <FileName>Receipt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.SalesTransaction" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAEAAAgAAYCgAAAJIAgEAAEAAAAABBAAAAAAAAAQA=</HashCode>
+      <FileName>SalesTransaction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Supervisor" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAQAQAAAACAFQAAAAAAgAQCAAgoAAAAAAAAAQA=</HashCode>
+      <FileName>Supervisor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Properties.Resources" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POS_TPM__store.Properties.Settings" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

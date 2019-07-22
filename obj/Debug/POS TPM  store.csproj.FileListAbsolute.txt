@@ -1,0 +1,49 @@
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\bin\Debug\POS TPM  store.exe.config
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\bin\Debug\POS TPM  store.exe
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\bin\Debug\POS TPM  store.pdb
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS TPM  store.csprojResolveAssemblyReference.cache
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS_TPM__store.FormCashierLogin.resources
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS_TPM__store.FormSupervisorLogin.resources
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS_TPM__store.Properties.Resources.resources
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS TPM  store.csproj.GenerateResource.Cache
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS TPM  store.exe
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS TPM  store.pdb
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS_TPM__store.FormMain.resources
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS_TPM__store.FormEditItem.resources
+c:\users\faiz alkatsar\documents\visual studio 2015\Projects\POS TPM  store\obj\Debug\POS_TPM__store.FormUpdateStock.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\POS TPM  store.exe.config
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS TPM  store.exe
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS TPM  store.pdb
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\POS TPM  store.exe
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\POS TPM  store.pdb
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormEditItem.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormMain.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormUpdateStock.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.Properties.Resources.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS TPM  store.csproj.GenerateResource.Cache
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormAddItem.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormSingleLogin.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.AddNewCategory.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.AddNewSupplier.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormNewCustomer.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormEditCustomer.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormCustomerCheckin.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormNewAccount.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormEditQty.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormReceipt.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\RdlCompile.cache
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\RdlCompile.compiled
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS_TPM__store.FormGSTReport.resources
+D:\College\Introduction to Object Oriented Programming\POS TPM  store\obj\Debug\POS TPM  store.csprojResolveAssemblyReference.cache
